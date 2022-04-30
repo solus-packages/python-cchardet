@@ -3,8 +3,8 @@
         <Name>python-cchardet</Name>
         <Homepage>https://github.com/PyYoshi/cChardet</Homepage>
         <Packager>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Packager>
         <License>GPL-2.0-or-later</License>
         <License>LGPL-2.1-or-later</License>
@@ -23,24 +23,24 @@
         <PartOf>programming.python</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin/cchardetect</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet-2.1.7-py3.9.egg-info/PKG-INFO</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet-2.1.7-py3.9.egg-info/SOURCES.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet-2.1.7-py3.9.egg-info/dependency_links.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet-2.1.7-py3.9.egg-info/top_level.txt</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet/__init__.py</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet/__pycache__/__init__.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet/__pycache__/version.cpython-39.pyc</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet/_cchardet.cpython-39-x86_64-linux-gnu.so</Path>
-            <Path fileType="library">/usr/lib/python3.9/site-packages/cchardet/version.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet-2.1.7-py3.10.egg-info/PKG-INFO</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet-2.1.7-py3.10.egg-info/SOURCES.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet-2.1.7-py3.10.egg-info/dependency_links.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet-2.1.7-py3.10.egg-info/top_level.txt</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet/__init__.py</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet/__pycache__/__init__.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet/__pycache__/version.cpython-310.pyc</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet/_cchardet.cpython-310-x86_64-linux-gnu.so</Path>
+            <Path fileType="library">/usr/lib/python3.10/site-packages/cchardet/version.py</Path>
         </Files>
     </Package>
     <History>
-        <Update release="1">
-            <Date>2021-08-27</Date>
+        <Update release="3">
+            <Date>2022-04-08</Date>
             <Version>2.1.7</Version>
             <Comment>Packaging update</Comment>
-            <Name>Algent Albrahimi</Name>
-            <Email>algent@protonmail.com</Email>
+            <Name>Joey Riches</Name>
+            <Email>josephriches@gmail.com</Email>
         </Update>
     </History>
 </PISI>

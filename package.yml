@@ -1,6 +1,6 @@
 name       : python-cchardet
 version    : 2.1.7
-release    : 1
+release    : 3
 source     :
     - https://files.pythonhosted.org/packages/source/c/cchardet/cchardet-2.1.7.tar.gz : c428b6336545053c2589f6caf24ea32276c6664cb86db817e03a94c60afa0eaf
 homepage   : https://github.com/PyYoshi/cChardet
@@ -9,7 +9,7 @@ license    :
     - LGPL-2.1-or-later
     - MPL-1.1
 component  : programming.python
-summary    : universal character encoding detector 
+summary    : universal character encoding detector
 description: |
     cChardet is high speed universal character encoding detector.
 builddeps  :
